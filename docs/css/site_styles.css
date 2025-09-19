@@ -155,3 +155,10 @@ footer {
     margin-left: 0;
     text-align: left;
 }
+
+.web {
+  text-align: center;
+}
+.web img {
+  display: inline-block;
+}
