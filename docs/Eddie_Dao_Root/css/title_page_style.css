@@ -1,0 +1,39 @@
+/*
+font-family: 'Rakkas', cursive; 
+*/
+
+html {
+    background-color: rgba(0,0,0);
+    color: #ff8c8c;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Rakkas', cursive;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 15%;
+}
+
+h2 {
+    font-family: 'Rakkas', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+.cover {
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 2px;
+    border: 2px solid black;
+}
+
+.cover:hover {
+    padding: 2px;
+    border: 2px solid #ff8c8c;
+}

@@ -1,0 +1,77 @@
+/*
+font-family: 'Rakkas', cursive; 
+
+font-family: font-family: 'Jost', sans-serif;
+weight: 100
+*/
+
+html {
+    background-color: rgba(0 ,0, 0);
+    color: #ff8c8c;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Rakkas', cursive;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.Logo {
+    padding: 2px;
+    border: 2px solid black;
+}
+
+.Logo:hover {
+    padding: 2px;
+    border: 2px solid #ff8c8c;
+}
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 33.33;
+    padding: 5px;
+    margin-left: 5%;
+}
+
+.book_1 {
+    padding: 2px;
+    border: 2px solid black;
+}
+
+.book_1:hover {
+    padding: 2px;
+    border: 2px solid #ff8c8c;
+}
+
+.book_2 {
+  padding: 2px;
+  border: 2px solid black;
+}
+
+.book_2:hover {
+  padding: 2px;
+  border: 2px solid #ff8c8c;
+}
+
+.book_3 {
+  padding: 2px;
+  border: 2px solid black;
+}
+
+.book_3:hover {
+  padding: 2px;
+  border: 2px solid #ff8c8c;
+}
+
+p {
+    font-family: 'Jost', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}

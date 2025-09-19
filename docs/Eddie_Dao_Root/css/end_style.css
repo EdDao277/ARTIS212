@@ -1,0 +1,48 @@
+/*
+font-family: 'Rakkas', cursive; 
+
+font-family: font-family: 'Jost', sans-serif;
+weight: 100
+*/
+
+html {
+    background-color: rgba(0 ,0, 0);
+    color: #ff8c8c;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: 'Rakkas', cursive;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.Logo {
+    padding: 2px;
+    border: 2px solid black;
+}
+
+.Logo:hover {
+    padding: 2px;
+    border: 2px solid #ff8c8c;
+}
+
+.gif {
+    display: block;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    font-family: 'Jost', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
